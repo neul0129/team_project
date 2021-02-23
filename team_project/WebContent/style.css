@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 0.2em;
     color: #6A696C;
 }
-.contents{
+.contents_wrap{
 	float: right;
 	width: 73.5054347826%;
 	text-align: center;
@@ -170,6 +170,32 @@ li.lookbook {
 	position: fixed;
 	right: 0px;
 }
+
+
+/* index.jsp */
+#slideshow img {
+    width: auto;
+    max-height: 70vh;
+    padding: 0px;
+    position: relative;
+}
+#slideshow {
+    position: relative;
+    text-align: center;
+    width: auto;
+    height: 70vh;
+    margin-bottom: 32px;
+    
+}
+#slideshow > div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    
+}
+
 
 /* header.jspf */
 

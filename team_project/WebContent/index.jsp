@@ -6,33 +6,7 @@
 <script src="https://code.jquery.com/jquery-latest.min.js"></script>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<style type="text/css">
 
-
-#slideshow img {
-    width: auto;
-    max-height: 70vh;
-    padding: 0px;
-    position: relative;
-}
-#slideshow {
-    position: relative;
-    text-align: center;
-    width: auto;
-    height: 70vh;
-    margin-bottom: 32px;
-    
-}
-#slideshow > div {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    bottom: 0px;
-    
-}
-
-</style>
    
 <%
 	request.setCharacterEncoding("utf-8");
@@ -53,7 +27,7 @@
 	<%@include file="header.jspf"%>
 	<%@include file="container.jspf"%>
 	
-		<div class="contents">
+		<div class="contents_wrap">
 			
 			<jsp:include page="<%=contentPath %>"/>		
 	 
