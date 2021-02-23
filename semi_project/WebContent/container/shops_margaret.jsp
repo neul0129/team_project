@@ -96,8 +96,6 @@ li {
 </style>
 <link href="../style.css" rel="stylesheet">
 <body>
-	<%@include file="../header.jspf"%>
-	<%@include file="../container.jspf"%>
 	<div class="contents">
 		<div class="retail-container">
    
@@ -106,8 +104,6 @@ li {
     <li><div class="details">MARGARET HOWELL 현대백화점 무역센터점<br>MARGARET HOWELL HYUNDAI COEX<br><br>서울 강남구 테헤란로 517 <br>현대백화점 무역센터점 5층 마가렛호웰<span class="phone">+82 (0)2 3467 8539</span><span class="store-hours">MON–THU 10:30–20:00<br>FRI–SUN 10:30–20:30</span><br><a class="map" target="_blank" href="https://goo.gl/maps/RWyqFroYYcw">MAP</a></div></li>    
     <li><div class="details">GARDEROBE 신세계백화점 본점<br>GARDEROBE SHINSEGAE MAIN<br><br>서울시 중구 소공로 63<br>신세계백화점 본점 신관 2층 가드로브<span class="phone">+82 (0)2 310 5304</span><span class="store-hours">MON–THU 10:30–20:00<br>FRI–SUN 10:30–20:30</span><br><a class="map" target="_blank" href="https://goo.gl/maps/bVBH15S28VF2">MAP</a></div></li>
     <li><div class="details">GARDEROBE 신세계백화점 강남점<br>GARDEROBE SHINSEGAE GANGNAM<br><br>서울시 서초구 신반포로 176<br>신세계백화점 강남점 3층 가드로브<span class="phone">+82 (0)2 3479 1609</span><span class="store-hours">MON–THU 10:30–20:00<br>FRI–SUN 10:30–20:30</span><br><a class="map" target="_blank" href="https://goo.gl/maps/BSSkzHgv8At">MAP</a></div></li>    
-    <li><div class="details">GARDEROBE 신세계백화점 센텀시티점<br>GARDEROBE SHINSEGAE CENTUM CITY<br><br>부산시 해운대구 센텀남대로 35<br>신세계백화점 센텀시티점 2층 가드로브<span class="phone">+82 (0)51 745 2483</span><span class="store-hours">MON–THU 10:30–20:00<br>FRI–SUN 10:30–21:00</span><br><a class="map" target="_blank" href="https://goo.gl/maps/yv8xbJCrJ2E2">MAP</a></div></li>    
-    <li><div class="details">ONLINE SHOP<span class="phone">+82 (0)2 3660 5633</span><a class="email-contact" href="mailto:shop@margarethowell.co.kr">shop@margarethowell.co.kr</a></div></li>    
 
 </ul></div>
 
@@ -130,7 +126,6 @@ li {
     <li><div class="details">PIAZZA CARLO GOLDONI 5<br>50123 FLORENCE<span class="phone">+39 055 289260</span><a class="email-contact" href="mailto:florence@margarethowell.co.uk">florence@margarethowell.co.uk</a><span class="store-hours">MON–SUN 10:00–19:00<br></span><a class="map" target="_blank" href="https://goo.gl/maps/VZzNhCQyGPx">MAP</a><br><br></div></li>
     <li><div class="details">99B RATHGAR ROAD<br>RATHGAR, DUBLIN 6<span class="phone">+353 (0)1 492 7143</span><a class="email-contact" href="mailto:dublin@margarethowell.co.uk">dublin@margarethowell.co.uk</a><span class="store-hours">MON–SAT 10:00–18:00 <br>WED 10:00–19:00</span><a class="map" target="_blank" href="https://goo.gl/maps/UVXKFN28iXG2">MAP</a><br><br></div></li>
  </ul></div>
- <%@include file="../footer.jspf"%>
  
 	</div>
 	

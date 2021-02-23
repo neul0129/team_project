@@ -25,8 +25,6 @@ width: 100%;
 </head>
 <link href="../style.css" rel="stylesheet">
 <body>
-	<%@include file="../header.jspf"%>
-	<%@include file="../container.jspf"%>
 
 	<div class="contents">
 		<div class="main-right">
@@ -84,11 +82,6 @@ width: 100%;
 				
 				
 			</ul>
-		</div>
-		<div class="footer">
-			<%@include file="../footer.jspf"%>
-
-			<script type="text/javascript" src="script.js"></script>
 		</div>
 	</div>
 

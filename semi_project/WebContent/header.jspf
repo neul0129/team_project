@@ -1,52 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
+<link href="style.css" rel="stylesheet">
 
-<style>
-#header {
-	top: 6px;
-	right: 11px;
-	position: absolute;
-	z-index: 99;
-	zoom: 1;
-}
-#header .inner {
-    height: 45px;
-    margin: 0 auto;
-    background: transparent;
-    top: 0!important;
-    z-index: 9999;
-}
-ul.top li:not(:last-child) {
-    list-style: none;
-    border-right: 1px solid #6A696C;
-    margin: 0px 2px;
-}
-ul.top li {
-    display: inline-block;
-    padding: 0 10px;
-    line-height: 18px;
-}
-ul.top li a {
-    font-size: 11px;
-}
-a {
-    text-decoration: none;
-    color: #6A696C;
-    outline: none!important;
-}
-img.cart {
-    margin-top: -4px;
-    width: 18px;
-    height: 20px;
-}
-img {
-    border: none;
-    vertical-align: top;
-}
-span.EC-Layout-Basket-count {
-    position: absolute;
-}
-</style>
 <div class="top-line">
 		<div id="header">
 			<div class="inner">
@@ -55,7 +10,7 @@ span.EC-Layout-Basket-count {
 						<li class="top-pc"><a href="/myshop/index.html"
 							class="top-menu">MY ACCOUNT</a></li>
 						<li><a href="/order/basket.html" class="top-menu"><img
-								src="../img/layout/cart-icon.png" class="cart"> &nbsp;<span
+								src="./img/layout/cart-icon.png" class="cart"> &nbsp;<span
 								class="count  EC-Layout_Basket-count-display"><span
 									class="EC-Layout-Basket-count"
 									style="margin-left: -20px; color: #FFF; font-size: 10px !important; height: 14px;"></span></span></a></li>

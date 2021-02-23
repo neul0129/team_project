@@ -1,13 +1,37 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
+	
+	<style>
+#accordian ul ul{
+	display: none;
+}
+#accordian ul li:hover ul{
+	display: block;
+}
+.menu{
+	    font-size: 12px;
+    line-height: 24px;
+    font-weight: 400;
+    font-style: normal;
+	float: left;
+padding: 50px;
+display: inline-block;
+}
 
-<link href="style.css" rel="stylesheet">
+#sidebar {
+    float: left;
+    width: 23.5054347826%;
+    margin: 0 0.747282608696%;
+}
+
+</style>
+
 
 <div id="wrap">
 <div id="container">
 	<div id="sidebar">
 		<p id="logo">
-			<a href="index.jsp"><img
+			<a href="../index.jsp"><img
 				src="https://d3o9uewzwdddwf.cloudfront.net/static/version0.0.0.7/frontend/Margaret_Howell/Default/default/images/logo.svg"
 				width="250"></a>
 		</p>
@@ -22,12 +46,12 @@
 				<ul>
 					<li>
 						<h3>
-							<a href="index.jsp?workgroup=container&work=women">WOMEN</a>
+							<a href="index.jsp?workgroup=container&work=women">WOMEN123</a>
 						</h3>
 					</li>
 					<li>
 						<h3>
-							<a href="index.jsp?workgroup=container&work=men">MEN</a>
+							<a href="container/men.jsp">MEN</a>
 						</h3>
 					</li>
 					<li>
@@ -36,10 +60,10 @@
 						</h3>
 						<ul>
 							<li style="padding-left: 12px !important;">
-							<a href="index.jsp?workgroup=container&work=autumn_winter_2020">AUTUMN WINTER 2020</a></li>
+							<a href="container/autumn_winter_2020.jsp">AUTUMN WINTER 2020</a></li>
 							<li
 								style="padding-left: 12px !important; padding-bottom: 12px !important;">
-								<a href="index.jsp?workgroup=container&work=mhl">MHL. AW20</a></li>
+								<a href="container/mhl.jsp">MHL. AW20</a></li>
 						</ul>
 					</li>
 					<li>
@@ -48,16 +72,16 @@
 						</h3>
 						<ul>
 							<li style="padding-left: 12px !important;"><a
-								href="index.jsp?workgroup=container&work=shops_margaret">MARGARET HOWELL</a></li>
+								href="container/shops_margaret.jsp">MARGARET HOWELL</a></li>
 							<li
 								style="padding-left: 12px !important; padding-bottom: 12px !important;"><a
-								href="index.jsp?workgroup=container&work=shops_mhl">MHL.</a></li>
+								href="container/shops_mhl.jsp">MHL.</a></li>
 						</ul>
 					</li>
 
 					<li>
 						<h3>
-							<a href="index.jsp?workgroup=container&work=about">ABOUT</a>
+							<a href="./container/about.jsp">ABOUT</a>
 						</h3>
 					</li>
 					<li>
