@@ -94,11 +94,10 @@ li {
 	text-align: -webkit-match-parent;
 }
 </style>
-<link href="style.css" rel="stylesheet">
-</head>
+<link href="../style.css" rel="stylesheet">
 <body>
-	<%@include file="header.jspf"%>
-	<%@include file="container.jspf"%>
+	<%@include file="../header.jspf"%>
+	<%@include file="../container.jspf"%>
 	<div class="contents">
 		<div class="retail-container">
    
@@ -131,7 +130,7 @@ li {
     <li><div class="details">PIAZZA CARLO GOLDONI 5<br>50123 FLORENCE<span class="phone">+39 055 289260</span><a class="email-contact" href="mailto:florence@margarethowell.co.uk">florence@margarethowell.co.uk</a><span class="store-hours">MON–SUN 10:00–19:00<br></span><a class="map" target="_blank" href="https://goo.gl/maps/VZzNhCQyGPx">MAP</a><br><br></div></li>
     <li><div class="details">99B RATHGAR ROAD<br>RATHGAR, DUBLIN 6<span class="phone">+353 (0)1 492 7143</span><a class="email-contact" href="mailto:dublin@margarethowell.co.uk">dublin@margarethowell.co.uk</a><span class="store-hours">MON–SAT 10:00–18:00 <br>WED 10:00–19:00</span><a class="map" target="_blank" href="https://goo.gl/maps/UVXKFN28iXG2">MAP</a><br><br></div></li>
  </ul></div>
- <%@include file="footer.jspf"%>
+ <%@include file="../footer.jspf"%>
  
 	</div>
 	

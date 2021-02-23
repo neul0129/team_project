@@ -41,11 +41,10 @@
 }
 
 </style>
-<link href="style.css" rel="stylesheet">
-</head>
+<link href="../style.css" rel="stylesheet">
 <body>
-	<%@include file="header.jspf" %>
-	<%@include file="container.jspf" %>
+	<%@include file="../header.jspf"%>
+	<%@include file="../container.jspf"%>
 	<div class="contents">
 <div class="about-feature">
 <img src="img/about/Margaret-Howell-Portrait-1-680x1024.jpg">    
@@ -108,6 +107,6 @@ MHL.<br><br>
 	
 	
 	
-	<%@include file="footer.jspf" %>
+	<%@include file="../footer.jspf" %>
 </body>
 </html>

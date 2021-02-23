@@ -26,10 +26,10 @@
 }
 </style>
 </head>
-<link href="style.css" rel="stylesheet">
+<link href="../style.css" rel="stylesheet">
 <body>
-	<%@include file="header.jspf"%>
-	<%@include file="container.jspf"%>
+	<%@include file="../header.jspf"%>
+	<%@include file="../container.jspf"%>
 
 	<div class="contents">
 
@@ -124,7 +124,7 @@
 
 
 
-		<%@include file="footer.jspf"%>
+		<%@include file="../footer.jspf"%>
 
 	</div>
 

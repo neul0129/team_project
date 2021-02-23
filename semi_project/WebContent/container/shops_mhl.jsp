@@ -97,11 +97,10 @@ li {
 	text-align: -webkit-match-parent;
 }
 </style>
-<link href="style.css" rel="stylesheet">
-</head>
+<link href="../style.css" rel="stylesheet">
 <body>
-	<%@include file="header.jspf"%>
-	<%@include file="container.jspf"%>
+	<%@include file="../header.jspf"%>
+	<%@include file="../container.jspf"%>
 	<div class="contents">
 		<div class="retail-container">
 
@@ -207,7 +206,7 @@ li {
 
 
 
-		<%@include file="footer.jspf"%>
+		<%@include file="../footer.jspf"%>
 
 	</div>
 

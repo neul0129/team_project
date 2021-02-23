@@ -29,7 +29,7 @@ display: inline-block;
 <div id="container">
 	<div id="sidebar">
 		<p id="logo">
-			<a href="index.jsp"><img
+			<a href="../index.jsp"><img
 				src="https://d3o9uewzwdddwf.cloudfront.net/static/version0.0.0.7/frontend/Margaret_Howell/Default/default/images/logo.svg"
 				width="250"></a>
 		</p>
@@ -44,12 +44,12 @@ display: inline-block;
 				<ul>
 					<li>
 						<h3>
-							<a href="women.jsp">WOMEN</a>
+							<a href="container/women.jsp">WOMEN</a>
 						</h3>
 					</li>
 					<li>
 						<h3>
-							<a href="men.jsp">MEN</a>
+							<a href="container/men.jsp">MEN</a>
 						</h3>
 					</li>
 					<li>
@@ -58,10 +58,10 @@ display: inline-block;
 						</h3>
 						<ul>
 							<li style="padding-left: 12px !important;">
-							<a href="autumn_winter_2020.jsp">AUTUMN WINTER 2020</a></li>
+							<a href="container/autumn_winter_2020.jsp">AUTUMN WINTER 2020</a></li>
 							<li
 								style="padding-left: 12px !important; padding-bottom: 12px !important;">
-								<a href="mhl.jsp">MHL. AW20</a></li>
+								<a href="container/mhl.jsp">MHL. AW20</a></li>
 						</ul>
 					</li>
 					<li>
@@ -70,16 +70,16 @@ display: inline-block;
 						</h3>
 						<ul>
 							<li style="padding-left: 12px !important;"><a
-								href="shops_margaret.jsp">MARGARET HOWELL</a></li>
+								href="container/shops_margaret.jsp">MARGARET HOWELL</a></li>
 							<li
 								style="padding-left: 12px !important; padding-bottom: 12px !important;"><a
-								href="shops_mhl.jsp">MHL.</a></li>
+								href="container/shops_mhl.jsp">MHL.</a></li>
 						</ul>
 					</li>
 
 					<li>
 						<h3>
-							<a href="about.jsp">ABOUT</a>
+							<a href="container/about.jsp">ABOUT</a>
 						</h3>
 					</li>
 					<li>
@@ -92,14 +92,12 @@ display: inline-block;
 						<ul>
 							<li style="padding-left: 12px;">
 								<ul>
-									<!-- <li><a href="jacket.jsp">JACKETS</a></li> -->
-									<li><a href="shirts.jsp">SHIRTS</a></li>
-									<li><a href="outerwear.jsp">OUTERWEAR</a></li>
-									<li><a href="knitwear.jsp">KNITWEAR</a></li>
-									<!-- <li><a href="dresses.jsp">DRESSES</a></li> -->
-									<li><a href="skirts.jsp">SKIRTS</a></li>
-									<li><a href="trousers.jsp">TROUSERS</a></li>
-									<li><a href="sportswear.jsp">SPORTSWEAR</a></li>
+									<li><a href="../shirts/shirts.jsp">SHIRTS</a></li>
+									<li><a href="../outerwear/outerwear.jsp">OUTERWEAR</a></li>
+									<li><a href="../knitwear/knitwear.jsp">KNITWEAR</a></li>
+									<li><a href="../skirts/skirts.jsp">SKIRTS</a></li>
+									<li><a href="../trousers/trousers.jsp">TROUSERS</a></li>
+									<li><a href="../sportswear/sportswear.jsp">SPORTSWEAR</a></li>
 								</ul>
 							</li>
 						</ul>

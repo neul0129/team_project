@@ -55,10 +55,10 @@ span.EC-Layout-Basket-count {
 						<li class="top-pc"><a href="/myshop/index.html"
 							class="top-menu">MY ACCOUNT</a></li>
 						<li><a href="/order/basket.html" class="top-menu"><img
-								src="img/layout/cart-icon.png" class="cart"> &nbsp;<span
+								src="../img/layout/cart-icon.png" class="cart"> &nbsp;<span
 								class="count  EC-Layout_Basket-count-display"><span
 									class="EC-Layout-Basket-count"
-									style="margin-left: -20px; color: #FFF; font-size: 10px !important; height: 14px;">0</span></span></a></li>
+									style="margin-left: -20px; color: #FFF; font-size: 10px !important; height: 14px;"></span></span></a></li>
 					</ul>
 				</div>
 			</div>
