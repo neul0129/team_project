@@ -34,6 +34,11 @@ $(function () {
             });
         });
 */
+	
+	
+$(".btn-primary").click(function(){
+	$(".displaynone").css("display","block");
+	});
 
 
 

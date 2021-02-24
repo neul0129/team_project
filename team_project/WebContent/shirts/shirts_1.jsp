@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<script src="https://code.jquery.com/jquery-latest.min.js"></script>
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <style type="text/css">
@@ -80,6 +81,12 @@ li {
 	letter-spacing: 0.2em;
 	color: #6a696c;
 }
+.displaynone{
+	border: 1px solid;
+	background-color: skyblue;
+	width: 50%;
+	display: none;
+}
 </style>
 </head>
 <link href="../style.css" rel="stylesheet">
@@ -138,13 +145,18 @@ li {
 						<tr>
 							<th scope="row">SIZE</th>
 							<div class="d-grid gap-2 d-md-block">
-								<button class="btn btn-primary" type="button">1</button>
-								<button class="btn btn-primary" type="button">2</button>
+								<button class="btn-primary" type="button">1</button>
+								<button class="btn-primary" type="button">2</button>
 							</div>
 						</tr>
 					</tbody>
-					
-					
+
+					<div class="displaynone">
+						<p>MHL. GARMENT DYE BASIC POPLIN</p>
+						<span>328,000</span>
+					</div>
+
+
 
 					<div class="xans-element- xans-product xans-product-action ">
 						<div class="buttonArea">
