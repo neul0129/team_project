@@ -13,10 +13,8 @@
 }
 </style>
 </head>
-<link href="../style.css" rel="stylesheet">
 <body>
-	<%@include file="../header.jspf"%>
-	<%@include file="../container.jspf"%>
+
 	<div class="contents">
 		<div class="mid-0">
 			<div class="normalmenu">
@@ -33,7 +31,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="knitwear_1.jsp"
+											href="index.jsp?workgroup=knitwear&work=knitwear_1"
 											name="anchorBoxName_1014"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/2f27c0b89c293fa94fcb2c78dc0137ec.jpg"
 											id="eListPrdImage1014_1" alt="마가렛호웰" class="thumb">
@@ -41,7 +39,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-										href="knitwear_1.jsp"
+										href="index.jsp?workgroup=knitwear&work=knitwear_1"
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													DRY ROUGH JERSEY
@@ -62,7 +60,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="knitwear_2.jsp"
+											href="index.jsp?workgroup=knitwear&work=knitwear_2"
 											name="anchorBoxName_1013"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/a794aacafea59c1ebb3a2a26ddb7a772.jpg"
 											id="eListPrdImage1013_1" alt="마가렛호웰" class="thumb">
@@ -70,7 +68,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-										href="knitwear_2.jsp"
+										href="index.jsp?workgroup=knitwear&work=knitwear_2 "
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													FELTED ROUGH WOOL
@@ -91,7 +89,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="knitwear_3.jsp"
+											href="index.jsp?workgroup=knitwear&work=knitwear_3"
 											name="anchorBoxName_1012"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/f1d6d23210aee06a0c9c3c9f0c1437e4.jpg"
 											id="eListPrdImage1012_1" alt="마가렛호웰" class="thumb">
@@ -99,7 +97,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="knitwear_3.jsp"
+											href="index.jsp?workgroup=knitwear&work=knitwear_3"
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													FELTED ROUGH WOOL
@@ -120,7 +118,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="knitwear_4.jsp"
+											href="index.jsp?workgroup=knitwear&work=knitwear_4"
 											name="anchorBoxName_1011"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/64c83fb741fb703e4d7b884861c76b9f.jpg"
 											id="eListPrdImage1011_1" alt="마가렛호웰" class="thumb">
@@ -128,7 +126,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="knitwear_4.jsp"
+											href="index.jsp?workgroup=knitwear&work=knitwear_4"
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													LIGHTWEIGHT WOOL COTTON
@@ -149,7 +147,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="knitwear_5.jsp"
+											href="index.jsp?workgroup=knitwear&work=knitwear_5"
 											name="anchorBoxName_1005"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/9f9a4e529c4f7f2056679a5e1be3cd1f.jpg"
 											id="eListPrdImage1005_1" alt="마가렛호웰" class="thumb">
@@ -157,7 +155,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="knitwear_5.jsp"
+											href=index.jsp?workgroup=knitwear&work=knitwear_5
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													VINTAGE DRY COTTON
@@ -177,7 +175,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="knitwear_6.jsp"
+											href="index.jsp?workgroup=knitwear&work=knitwear_6"
 											name="anchorBoxName_1004"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/054b143808f28bc0c3fd98aa604cacf4.jpg"
 											id="eListPrdImage1004_1" alt="마가렛호웰" class="thumb">
@@ -185,7 +183,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="knitwear_6.jsp"
+											href="index.jsp?workgroup=knitwear&work=knitwear_6"
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													VINTAGE DRY COTTON
@@ -206,7 +204,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="knitwear_7.jsp"
+											href="index.jsp?workgroup=knitwear&work=knitwear_7"
 											name="anchorBoxName_985"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/9687cfab2d37d8328e9ee6f782a48017.jpg"
 											id="eListPrdImage985_1" alt="마가렛호웰" class="thumb">
@@ -214,7 +212,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="knitwear_7.jsp"
+											href="index.jsp?workgroup=knitwear&work=knitwear_7"
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MARGARET
 													HOWELL <br> WOOL COTTON
@@ -235,7 +233,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="knitwear_8.jsp"
+											href="index.jsp?workgroup=knitwear&work=knitwear_8"
 											name="anchorBoxName_983"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/08dce97ebc93dcc13403679767aa16d9.jpg"
 											id="eListPrdImage983_1" alt="마가렛호웰" class="thumb">
@@ -243,7 +241,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="knitwear_8.jsp"
+											href="index.jsp?workgroup=knitwear&work=knitwear_8"
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MARGARET
 													HOWELL <br> LAMBSWOOL CASHMERE
@@ -265,7 +263,6 @@
 			</div>
 		</div>
 
-		<%@include file="../footer.jspf"%>
 	</div>
 	<script type="text/javascript" src="script.js"></script>
 </body>

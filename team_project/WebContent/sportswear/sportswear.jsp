@@ -13,10 +13,7 @@
 }
 </style>
 </head>
-<link href="../style.css" rel="stylesheet">
 <body>
-	<%@include file="../header.jspf"%>
-	<%@include file="../container.jspf"%>
 	<div class="contents">
 		<div class="mid-0">
 			<div class="normalmenu">
@@ -33,7 +30,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="sportswear_1.jsp"
+											href="index.jsp?workgroup=sportswear&work=sportswear_1"
 											name="anchorBoxName_1006"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/54a203cb16658d229241a25a98e6a030.jpg"
 											id="eListPrdImage1006_1" alt="마가렛호웰" class="thumb">
@@ -41,7 +38,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="sportswear_1.jsp"
+											href="index.jsp?workgroup=sportswear&work=sportswear_1"
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													WIDE STRIPE DRY JERSEY
@@ -62,7 +59,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="sportswear_2.jsp"
+											href="index.jsp?workgroup=sportswear&work=sportswear_2"
 											name="anchorBoxName_1007"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/33e0abe194a73a1380af6788f974be01.jpg"
 											id="eListPrdImage1007_1" alt="마가렛호웰" class="thumb">
@@ -70,7 +67,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="sportswear_2.jsp"
+											href="index.jsp?workgroup=sportswear&work=sportswear_2"
 											class=""><span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													WIDE STRIPE DRY JERSEY
@@ -91,7 +88,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="sportswear_3.jsp"
+											href="index.jsp?workgroup=sportswear&work=sportswear_3"
 											name="anchorBoxName_1008"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/2edebc589bcfd90a0e42a6d1f145a8ee.jpg"
 											id="eListPrdImage1008_1" alt="마가렛호웰" class="thumb">
@@ -99,7 +96,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="sportswear_3.jsp"
+											href="index.jsp?workgroup=sportswear&work=sportswear_3"
 											class=""><span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													MATTE COTTON JERSEY
@@ -119,7 +116,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="sportswear_4.jsp"
+											href="index.jsp?workgroup=sportswear&work=sportswear_4"
 											name="anchorBoxName_999"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/44fa9833368c5c4159caa68660f17e72.jpg"
 											id="eListPrdImage999_1" alt="마가렛호웰" class="thumb">
@@ -127,7 +124,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="sportswear_4.jsp"
+											href="index.jsp?workgroup=sportswear&work=sportswear_4"
 											class=""><span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													FADED COTTON TWILL
@@ -147,7 +144,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="sportswear_5.jsp"
+											href="index.jsp?workgroup=sportswear&work=sportswear_5"
 											name="anchorBoxName_998"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/7163a02188f8e398d9c40bdaa6fb5827.jpg"
 											id="eListPrdImage998_1" alt="마가렛호웰" class="thumb">
@@ -155,7 +152,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="sportswear_5.jsp"
+											href="index.jsp?workgroup=sportswear&work=sportswear_5"
 											class=""> <span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													FADED COTTON TWILL
@@ -175,7 +172,6 @@
 			</div>
 		</div>
 
-		<%@include file="../footer.jspf"%>
 	</div>
 	<script type="text/javascript" src="script.js"></script>
 </body>

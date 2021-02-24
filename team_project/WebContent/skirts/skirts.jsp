@@ -13,10 +13,7 @@
 }
 </style>
 </head>
-<link href="../style.css" rel="stylesheet">
 <body>
-	<%@include file="../header.jspf"%>
-	<%@include file="../container.jspf"%>
 	<div class="contents">
 		<div class="mid-0">
 			<div class="normalmenu">
@@ -34,7 +31,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="skirts_1.jsp"
+											href="index.jsp?workgroup=skirts&work=skirts_1"
 											name="anchorBoxName_815"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202009/06cde8afd892172d8005595c7b58939b.jpg"
 											id="eListPrdImage815_1" alt="마가렛호웰" class="thumb">
@@ -63,7 +60,6 @@
 			</div>
 		</div>
 
-		<%@include file="../footer.jspf"%>
 	</div>
 	<script type="text/javascript" src="script.js"></script>
 </body>

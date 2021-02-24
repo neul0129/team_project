@@ -13,10 +13,7 @@
 }
 </style>
 </head>
-<link href="../style.css" rel="stylesheet">
 <body>
-	<%@include file="../header.jspf"%>
-	<%@include file="../container.jspf"%>
 	<div class="contents">
 		<div class="mid-0">
 			<div class="normalmenu">
@@ -33,7 +30,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="trousers_1.jsp"
+											href="index.jsp?workgroup=trousers&work=trousers_1"
 											name="anchorBoxName_995"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/6429f0c3e8afef93f328dd692f0cb4f5.jpg"
 											id="eListPrdImage995_1" alt="마가렛호웰" class="thumb">
@@ -41,7 +38,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="trousers_1.jsp"
+											href="index.jsp?workgroup=trousers&work=trousers_1"
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													WORKWEAR STRIPE COTTON LINEN
@@ -62,7 +59,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="trousers_2.jsp"
+											href="index.jsp?workgroup=trousers&work=trousers_2"
 											name="anchorBoxName_971"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/1a6ec75c124cc317e9b428459d773e43.jpg"
 											id="eListPrdImage971_1" alt="마가렛호웰" class="thumb">
@@ -70,7 +67,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="trousers_2.jsp"
+											href="index.jsp?workgroup=trousers&work=trousers_2"
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MARGARET
 													HOWELL <br> WASHED COTTON TWILL
@@ -91,7 +88,6 @@
 			</div>
 		</div>
 
-		<%@include file="../footer.jspf"%>
 	</div>
 	<script type="text/javascript" src="script.js"></script>
 </body>

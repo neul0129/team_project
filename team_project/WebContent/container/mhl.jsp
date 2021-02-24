@@ -23,7 +23,6 @@ width: 100%;
 }
 </style>
 </head>
-<link href="../style.css" rel="stylesheet">
 <body>
 
 	<div class="contents">

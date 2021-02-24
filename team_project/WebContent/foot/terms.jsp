@@ -24,10 +24,7 @@
 
 </style>
 </head>
-<link href="../style.css" rel="stylesheet">
 <body>
-	<%@include file="../header.jspf"%>
-	<%@include file="../container.jspf"%>
 
 	<div class="contents">
 		<div class="boxTheme">
@@ -341,10 +338,6 @@
 			<p>부 칙(시행일) 이 약관은 2018년 9월 1일부터 시행합니다.</p>
 			<p></p>
 		</div>
-
-
-
-		<%@include file="../footer.jspf"%>
 
 	</div>
 

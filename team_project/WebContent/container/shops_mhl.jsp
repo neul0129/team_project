@@ -97,7 +97,6 @@ li {
 	text-align: -webkit-match-parent;
 }
 </style>
-<link href="../style.css" rel="stylesheet">
 <body>
 	<div class="contents">
 		<div class="retail-container">

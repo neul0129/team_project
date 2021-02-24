@@ -1,13 +1,12 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
-<link href="style.css" rel="stylesheet">
 
 <div class="top-line">
 		<div id="header">
 			<div class="inner">
 				<div class="xans-element- xans-layout xans-layout-statelogoff ">
 					<ul class="top">
-						<li class="top-pc"><a href="/myshop/index.html"
+						<li class="top-pc"><a href=""
 							class="top-menu">MY ACCOUNT</a></li>
 						<li><a href="/order/basket.html" class="top-menu"><img
 								src="./img/layout/cart-icon.png" class="cart"> &nbsp;<span

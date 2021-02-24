@@ -23,10 +23,7 @@
 }
 </style>
 </head>
-<link href="../style.css" rel="stylesheet">
 <body>
-	<%@include file="../header.jspf"%>
-	<%@include file="../container.jspf"%>
 
 	<div class="contents">
 		<div class="boxTheme">
@@ -48,7 +45,6 @@
 
 
 
-		<%@include file="../footer.jspf"%>
 
 	</div>
 

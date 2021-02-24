@@ -24,7 +24,6 @@ img {
 }
 </style>
 </head>
-<link href="../style.css" rel="stylesheet">
 <body>
 
 	<div class="contents">

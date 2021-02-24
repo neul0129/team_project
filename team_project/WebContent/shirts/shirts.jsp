@@ -13,10 +13,7 @@
 }
 </style>
 </head>
-<link href="../style.css" rel="stylesheet">
 <body>
-	<%@include file="../header.jspf"%>
-	<%@include file="../container.jspf"%>
 	<div class="contents">
 		<div class="mid-0">
 			<div class="normalmenu">
@@ -32,8 +29,7 @@
 							<li id="anchorBoxId_1003" class="item xans-record-">
 								<div class="box">
 									<div class="prdImg">
-										<a
-											href="shirts_1.jsp";
+										<a href="index.jsp?workgroup=shirts&work=shirts_1";
 											name="anchorBoxName_1003"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/3ca023b9b5aede0d390728ee6d080b15.jpg"
 											id="eListPrdImage1003_1" alt="마가렛호웰" class="thumb">
@@ -41,7 +37,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="shirts_1.jsp";
+											href="index.jsp?workgroup=shirts&work=shirts_1";
 											class=""><span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													GARMENT DYE BASIC POPLIN
@@ -62,7 +58,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="shirts_2.jsp";
+											href="index.jsp?workgroup=shirts&work=shirts_2";
 											name="anchorBoxName_1002"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/6fbbe53d0bd6996c0000d15a053cfd6e.jpg"
 											id="eListPrdImage1002_1" alt="마가렛호웰" class="thumb">
@@ -70,7 +66,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="shirts_2.jsp";
+											href="index.jsp?workgroup=shirts&work=shirts_2";
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													GARMENT DYE BASIC POPLIN
@@ -91,7 +87,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="shirts_3.jsp";
+											href="index.jsp?workgroup=shirts&work=shirts_3";
 											name="anchorBoxName_1000"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/a7c4c131bb6216b0fffdd749ac2941bf.jpg"
 											id="eListPrdImage1000_1" alt="마가렛호웰" class="thumb">
@@ -99,7 +95,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="shirts_3.jsp";
+											href="index.jsp?workgroup=shirts&work=shirts_3";
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													GARMENT DYE BASIC POPLIN
@@ -120,7 +116,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="shirts_4.jsp";
+											href="index.jsp?workgroup=shirts&work=shirts_4";
 											name="anchorBoxName_997"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/23a42521e2bd4f40e477f96f1e6dc2f7.jpg"
 											id="eListPrdImage997_1" alt="마가렛호웰" class="thumb">
@@ -128,7 +124,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="shirts_4.jsp";
+											href="index.jsp?workgroup=shirts&work=shirts_4";
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MHL. <br>
 													DRY COTTON SLUB
@@ -149,7 +145,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="shirts_5.jsp";
+											href="index.jsp?workgroup=shirts&work=shirts_5";
 											name="anchorBoxName_976"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/267bb22e89121cc6b8d3b2198423679e.jpg"
 											id="eListPrdImage976_1" alt="마가렛호웰" class="thumb">
@@ -157,7 +153,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="shirts_5.jsp";
+											href="index.jsp?workgroup=shirts&work=shirts_5";
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MARGARET
 													HOWELL <br> SOFT WASHED COTTON
@@ -178,7 +174,7 @@
 								<div class="box">
 									<div class="prdImg">
 										<a
-											href="shirts_6.jsp";
+											href="index.jsp?workgroup=shirts&work=shirts_6";
 											name="anchorBoxName_969"> <img
 											src="//www.margarethowell.co.kr/web/product/medium/202102/24bffd5d9f797a4b18f2374b1b3ac61a.jpg"
 											id="eListPrdImage969_1" alt="마가렛호웰" class="thumb">
@@ -186,7 +182,7 @@
 									</div>
 									<p class="name">
 										<strong><a
-											href="shirts_6.jsp";
+											href="index.jsp?workgroup=shirts&work=shirts_6";
 											class=""><span class="title displaynone"></span> <span
 												style="font-size: 12px; color: #6a696c;">MARGARET
 													HOWELL <br> BOLD STRIPE COTTON SILK
@@ -207,7 +203,6 @@
 			</div>
 		</div>
 
-		<%@include file="../footer.jspf"%>
 	</div>
 	<script type="text/javascript" src="script.js"></script>
 </body>

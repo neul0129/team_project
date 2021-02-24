@@ -1,6 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
-<link href="style.css" rel="stylesheet">
 
 
 <footer class="footer">
@@ -30,13 +29,13 @@
 			</div>
 			<div class="footer-cell">
 				<ul>
-					<li><a href="./foot/delivery.jsp">Delivery &amp;
+					<li><a href="index.jsp?workgroup=foot&work=delivery">Delivery &amp;
 							Returns</a></li>
-					<li><a href="./foot/terms.jsp">Terms &amp;
+					<li><a href="index.jsp?workgroup=foot&work=terms">Terms &amp;
 							Conditions</a></li>
-					<li><a href="./foot/privacy.jsp">Privacy / Cookies</a></li>
-					<li><a href="./foot/faqs.jsp">FAQS</a></li>
-					<li><a href="#">Q&A</a></li>
+					<li><a href="index.jsp?workgroup=foot&work=privacy">Privacy / Cookies</a></li>
+					<li><a href="index.jsp?workgroup=foot&work=faqs">FAQS</a></li>
+					<li><a href="index.jsp?workgroup=foot&work=q_a">Q&A</a></li>
 				</ul>
 			</div>
 

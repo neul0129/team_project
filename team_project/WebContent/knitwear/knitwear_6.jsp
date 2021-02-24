@@ -75,10 +75,7 @@ li {
 }
 </style>
 </head>
-<link href="../style.css" rel="stylesheet">
 <body>
-	<%@include file="../header.jspf"%>
-	<%@include file="../container.jspf"%>
 	<div class="contents">
 		<div class="headingArea ">
 			<div class="detailArea ">
@@ -153,7 +150,6 @@ li {
 					</div>
 				</div>
 			</div>
-			<%@include file="../footer.jspf"%>
 		</div>
 		<script type="text/javascript" src="script.js"></script>
 </body>

@@ -1,7 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 
-<link href="style.css" rel="stylesheet">
 
 <div id="wrap">
 <div id="container">
@@ -70,12 +69,12 @@
 						<ul>
 							<li style="padding-left: 12px;">
 								<ul>
-									<li><a href="../shirts/shirts.jsp">SHIRTS</a></li>
-									<li><a href="../outerwear/outerwear.jsp">OUTERWEAR</a></li>
-									<li><a href="../knitwear/knitwear.jsp">KNITWEAR</a></li>
-									<li><a href="../skirts/skirts.jsp">SKIRTS</a></li>
-									<li><a href="../trousers/trousers.jsp">TROUSERS</a></li>
-									<li><a href="../sportswear/sportswear.jsp">SPORTSWEAR</a></li>
+									<li><a href="index.jsp?workgroup=shirts&work=shirts">SHIRTS</a></li>
+									<li><a href="index.jsp?workgroup=outerwear&work=outerwear">OUTERWEAR</a></li>
+									<li><a href="index.jsp?workgroup=knitwear&work=knitwear">KNITWEAR</a></li>
+									<li><a href="index.jsp?workgroup=skirts&work=skirts">SKIRTS</a></li>
+									<li><a href="index.jsp?workgroup=trousers&work=trousers">TROUSERS</a></li>
+									<li><a href="index.jsp?workgroup=sportswear&work=sportswear">SPORTSWEAR</a></li>
 								</ul>
 							</li>
 						</ul>

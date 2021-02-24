@@ -29,14 +29,15 @@
 	
 		<div class="contents_wrap">
 			
+			
 			<jsp:include page="<%=contentPath %>"/>		
 	 
 		
 			<%@include file="footer.jspf"%>
 	
-			<script type="text/javascript" src="script.js"></script>
+		
 	
 		</div>
-	
+	<script type="text/javascript" src="script.js"></script>
 </body>
 </html>

@@ -35,11 +35,27 @@ $(function () {
         });
 */
 	
+	$("#product_btn1").click(function(){
+			if($(".displaynone1").css("display") == "none") {
+				$(".displaynone2").css("display","none");
+				/*$(".displaynone1").show();*/
+				$(".displaynone1").css("display","inline-block")
+			} else {
+				$(".displaynone1").hide();
+			}
+
+ 	});
+ 	
+	$("#product_btn2").click(function(){
+			if($(".displaynone2").css("display") == "none") {
+				$(".displaynone1").css("display","none");
+				/*//$(".displaynone2").show();*/
+				$(".displaynone2").css("display","inline-block")
+			}  else {
+				$(".displaynone2").hide();
+			}
+
+ 	});
+
 	
-$(".btn-primary").click(function(){
-	$(".displaynone").css("display","block");
-	});
-
-
-
     

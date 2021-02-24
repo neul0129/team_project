@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .contents_wrap{
 	float: right;
-	width: 73.5054347826%;
+	width: 73.5054347826%; 
 	text-align: center;
 }
 li.lookbook img {
@@ -323,7 +323,104 @@ address {
     display: block;
 }
 
+.contents{
+	text-align: center;
+	width: 100%;
+}
 
 
+#product_btn1,#product_btn2{
+	width: 20%;
+}
 
+.displaynone1, .displaynone2{
+	border: 1px solid;
+	width: 50%;
+	display: none;
+}
+#product_btn1,#product_btn2{
+	width: 20%;
+}
+
+/* product */
+.imgArea {
+	float: left;
+	width: 60%;
+	margin: 0 0 0 0;
+}
+
+.listImg {
+	overflow: hidden;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	margin: 0px 0px 30px;
+}
+
+.listImg ul li {
+	display: inline-block;
+	margin: 0px 0px 160px 0;
+	line-height: 14px;
+	vertical-align: top;
+	*display: inline;
+	*zoom: 1;
+}
+
+.imgArea .listImg li img {
+	width: 100%;
+	height: auto;
+	border: 0px solid #ececec;
+}
+
+.infoArea {
+	width: 40%;
+	display: inline-block;
+	float: left;
+}
+
+.option_button {
+	padding-bottom: 60px;
+}
+
+li {
+	list-style: none;
+}
+
+.infoArea td {
+	padding: 7px 10px 8px 0;
+	vertical-align: middle;
+}
+
+.infoArea {
+	position: fixed;
+	right: 50px;
+	width: 30%;
+}
+
+#button_addtobag:hover, .review:hover {
+	background: #6a696c;
+	color: #fff;
+}
+
+.mid-0 .option_button2 {
+	padding: 20px 0 20px 0;
+	border-top: 0px solid #e8e8e8;
+}
+
+#button_addtobag, .review {
+	background: transparent;
+	width: 50% !important;
+	border: 1px solid #6a696c;
+	padding: 8px 15px 5px;
+	letter-spacing: 0.2em;
+	color: #6a696c;
+}
+#product_btn1,#product_btn2{
+	width: 20%;
+}
+
+.displaynone1, .displaynone2{
+	border: 1px solid;
+	width: 50%;
+	display: none;
+}
 
