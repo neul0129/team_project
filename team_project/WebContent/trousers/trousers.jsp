@@ -3,18 +3,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script src="https://code.jquery.com/jquery-latest.min.js"></script>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<style type="text/css">
-.contents {
-	float: right;
-	text-align: center;
-}
-</style>
 </head>
 <body>
-	<div class="contents">
 		<div class="mid-0">
 			<div class="normalmenu">
 				<div class="title" id="Product_ListMenu">
@@ -88,7 +80,5 @@
 			</div>
 		</div>
 
-	</div>
-	<script type="text/javascript" src="script.js"></script>
 </body>
 </html>

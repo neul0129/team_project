@@ -7,10 +7,6 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <style type="text/css">
-.contents {
-	float: right;
-	text-align: center;
-}
 </style>
 </head>
 <body>
@@ -61,6 +57,5 @@
 		</div>
 
 	</div>
-	<script type="text/javascript" src="script.js"></script>
 </body>
 </html>

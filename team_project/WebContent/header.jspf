@@ -6,7 +6,7 @@
 			<div class="inner">
 				<div class="xans-element- xans-layout xans-layout-statelogoff ">
 					<ul class="top">
-						<li class="top-pc"><a href=""
+						<li class="top-pc"><a href="index.jsp?workgroup=member&work=member_login"
 							class="top-menu">MY ACCOUNT</a></li>
 						<li><a href="/order/basket.html" class="top-menu"><img
 								src="./img/layout/cart-icon.png" class="cart"> &nbsp;<span
