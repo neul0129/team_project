@@ -8,7 +8,7 @@
 					<ul class="top">
 						<li class="top-pc"><a href="index.jsp?workgroup=member&work=member_login"
 							class="top-menu">MY ACCOUNT</a></li>
-						<li><a href="/order/basket.html" class="top-menu"><img
+						<li><a href="#" class="top-menu"><img
 								src="./img/layout/cart-icon.png" class="cart"> &nbsp;<span
 								class="count  EC-Layout_Basket-count-display"><span
 									class="EC-Layout-Basket-count"

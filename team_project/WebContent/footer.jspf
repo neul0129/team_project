@@ -35,7 +35,7 @@
 							Conditions</a></li>
 					<li><a href="index.jsp?workgroup=foot&work=privacy">Privacy / Cookies</a></li>
 					<li><a href="index.jsp?workgroup=foot&work=faqs">FAQS</a></li>
-					<li><a href="index.jsp?workgroup=foot&work=q_a">Q&A</a></li>
+					<li><a href="index.jsp?workgroup=question&work=question_detail1">Q&A</a></li>
 				</ul>
 			</div>
 

@@ -419,3 +419,87 @@ li {
 	display: none;
 }
 
+
+
+/*예림님 cart*/
+#board{
+	margin: 0 0 0px;
+}
+.title {
+    min-height: 30px;
+    margin: 0px 0 20px;
+    text-align: left;
+    font-size: 1.5em;
+    color: #555555;
+}
+.title h2 {
+    display: inline-block;
+    padding: 0 0 0 0px;
+    color: #555555;
+    font-size: 12px;
+    *display: inline;
+    *zoom: 1;
+}
+.boardList {
+    clear: both;
+}
+.boardList table {
+    border: 0px solid #d7d5d5;
+    font-size: 12px;
+    line-height: 140%;
+    border-bottom: 1px solid #d7d7d5;
+}
+table {
+    width: 100%;
+    border: 0;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+    color: #555555;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+th, td {
+    border: 0;
+    vertical-align: middle;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+table td {
+    padding: 6px 3px 4px;
+    height: 32px;
+    border-top: 1px solid #e3e3e3;
+    border-right: 0px solid #e3e3e3;
+    text-align: center;
+    vertical-align: middle;
+}
+table .subject {
+    word-break: break-all;
+    text-align: left;
+    padding-left: 8px;
+}
+.xans-board-listpackage table td:last-child {
+    border-right: 0;
+}
+.xans-board-buttonlist {
+    padding: 15px 20px 15px 0;
+    border: 0px solid #d7d5d5;
+    border-top: none;
+    text-align: right;
+}
+.buttonG{
+	padding: 10px;
+	background: #8c8c8c;
+	color: #323232;
+	border-radius: 20px;
+}
