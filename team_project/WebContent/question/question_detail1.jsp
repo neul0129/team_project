@@ -45,7 +45,7 @@
 	</div>
 	<div
 		class="xans-element- xans-board xans-board-buttonlist-9 xans-board-buttonlist xans-board-9 ">
-		<a href="index.jsp?workgroup=question&work=question_write1" class=""><span
+		<a href="index.jsp?workgroup=question&work=question_write" class=""><span
 			class="buttonG">WRITE</span></a>
 	</div>
 </div>

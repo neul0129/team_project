@@ -169,7 +169,7 @@ caption {display : none;}
 
 </tbody>
 </table>
-</div>s
+</div>
 
 <div class="btnArea">
 	<a href="#none" onclick="BOARD_WRITE.form_submit('boardWriteForm');"><span class="buttonG">SUBMIT</span></a>

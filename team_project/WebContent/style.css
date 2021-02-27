@@ -247,14 +247,15 @@ span.EC-Layout-Basket-count {
 #accordian ul li:hover ul{
 	display: block;
 }
-.menu{
-	    font-size: 12px;
-    line-height: 24px;
-    font-weight: 400;
-    font-style: normal;
+.menu {
+	font-size: 12px;
+	line-height: 24px;
+	font-weight: 400;
+	font-style: normal;
 	float: left;
-padding: 50px;
-display: inline-block;
+	padding: 50px;
+	display: inline-block;
+	left:0px;
 }
 
 #sidebar {
@@ -487,6 +488,11 @@ table .subject {
     word-break: break-all;
     text-align: left;
     padding-left: 8px;
+}
+#subject {
+    width: 400px;
+    height: 14px;
+    padding: 3px;
 }
 .xans-board-listpackage table td:last-child {
     border-right: 0;
